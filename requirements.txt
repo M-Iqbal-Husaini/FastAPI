@@ -6,3 +6,4 @@ numpy
 tensorflow
 requests
 python-dotenv
+gunicorn

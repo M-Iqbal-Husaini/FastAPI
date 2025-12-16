@@ -1,9 +1,10 @@
 fastapi
+gunicorn
 uvicorn
 pydantic
-pandas
 numpy
+pandas
 tensorflow
+scikit-learn
 requests
 python-dotenv
-gunicorn
